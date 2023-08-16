@@ -1,0 +1,1 @@
+web gunicorn merlinbi.wsgi:application --log-file -
